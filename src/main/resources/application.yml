@@ -1,0 +1,6 @@
+aws:
+  access_key_id: AKIA4KASEZ7UBBN35Z35
+  secret_access_key: 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
+  s3:
+    bucket:devbucket182
+    region:us-east-1
